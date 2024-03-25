@@ -23,11 +23,11 @@ Bloomberg</br>
 > https://www.bloomberg.com/asia?sref=IP8hgTem</br>
 
 ### Lecture 7:
-FATF Anti money laundry & terriost financing
-> https://www.fatf-gafi.org/en/topics/fatf-recommendations.html
-FATF mutal evaluations
-> https://www.fatf-gafi.org/en/topics/mutual-evaluations.html
-FATF grey list: most conturies are in conflict -> Higher level of concenrn:
-> https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html
-FATF black list: Countries doesn't apply anti money laundry & terr~ finnancing regulations:
-> https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2024.html
+FATF Anti money laundry & terriost financing</br>
+> https://www.fatf-gafi.org/en/topics/fatf-recommendations.html</br>
+FATF mutal evaluations</br>
+> https://www.fatf-gafi.org/en/topics/mutual-evaluations.html</br>
+FATF grey list: most conturies are in conflict -> Higher level of concenrn:</br>
+> https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html</br>
+FATF black list: Countries doesn't apply anti money laundry & terr~ finnancing regulations:</br>
+> https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2024.html</br>
